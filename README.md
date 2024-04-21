@@ -1,6 +1,10 @@
 # This is a full stack MERN application which is a Notes Creation Web App. A user can basically create his account on the website with full authenticity of his details and then create his/her personal notes to stores in their account. The notes can be edited as well as deleted succesfully. The below is a video snippet on how to use the app:
 
 
+
+https://github.com/sahil12m/MERN-Stack-Notebook-App/assets/64885533/06eac35d-f859-40f8-8727-cf1ee394c040
+
+
 ## There are gonna be future edits in the website for creation of an about page and a button for the user to view their profile info.
 
 ## Details to Run the repository:
